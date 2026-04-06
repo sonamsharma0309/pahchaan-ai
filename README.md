@@ -1,4 +1,4 @@
-# ✦ Pahchaan AI — Full Stack Deployment Guide
+# Pahchaan AI — Full Stack Deployment Guide
 
 > AI-Powered Brand Identity Platform · Built by Code Pirates  
 > Frontend: React + Vite → **Vercel**  
